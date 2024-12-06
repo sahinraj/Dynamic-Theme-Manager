@@ -15,11 +15,11 @@ A **Dynamic Theme Manager** built with SwiftUI to demonstrate dynamic theming, p
 ---
 
 ## Screenshots
-![Simulator Screenshot - iPhone 16 Pro - 2024-12-06 at 01 19 00](https://github.com/user-attachments/assets/f4f39121-b19b-4bb5-974a-cc53ef84a59a)
-![Simulator Screenshot - iPhone 16 Pro - 2024-12-06 at 01 19 05](https://github.com/user-attachments/assets/1c213df3-e88f-489a-9219-cc3313db6063)
-![Simulator Screenshot - iPhone 16 Pro - 2024-12-06 at 01 19 09](https://github.com/user-attachments/assets/d83ad37f-8816-40f6-81c4-59b548b4c61f)
-![Simulator Screenshot - iPhone 16 Pro - 2024-12-06 at 01 19 13](https://github.com/user-attachments/assets/56589949-10f5-4247-b5ec-a43b31478079)
-![Simulator Screenshot - iPhone 16 Pro - 2024-12-06 at 01 19 22](https://github.com/user-attachments/assets/da5835d3-660f-4c8e-95d8-2944219644e6)
+![Simulator Screenshot - iPhone 16 Pro - 2024-12-06 at 01 19 00](https://github.com/user-attachments/assets/e1de1bf4-64e3-479e-9c87-e860a7232ac8)
+![Simulator Screenshot - iPhone 16 Pro - 2024-12-06 at 01 19 05](https://github.com/user-attachments/assets/4f6192d0-c045-43e6-94ef-01d4da1f3008)
+![Simulator Screenshot - iPhone 16 Pro - 2024-12-06 at 01 19 09](https://github.com/user-attachments/assets/6add494d-2394-4f12-b773-bbb7b3249374)
+![Simulator Screenshot - iPhone 16 Pro - 2024-12-06 at 01 19 13](https://github.com/user-attachments/assets/43927163-ef2e-445e-beb9-91fdc9e8c114)
+![Simulator Screenshot - iPhone 16 Pro - 2024-12-06 at 01 19 22](https://github.com/user-attachments/assets/f8cb41ea-fb06-4e11-ab50-03c591abdfbf)
 
 
 ---
